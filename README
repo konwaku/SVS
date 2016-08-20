@@ -1,0 +1,42 @@
+*ReadMe
+
+## Release Version
+
+** blabla **
+
+## user pannel.py
+
+This is the codes for opening, processing, and closing the pannel that the user uses. The imports has already listed test.py.
+
+## imageMetlab.py
+d
+This is the codes for processing the image using the time frequency image using module of Metlab.
+
+## SIMM.py
+
+this is the code for parameter estimation.
+
+## tracking.py
+
+This is the code for Viterbi decoding algorithm.
+
+## test.py
+
+This includes all the modules used in the whole program.
+
+## separateLeadStereoParam.py
+
+This is codes for pack the vocal file and accompaniment file.
+
+## Requirement
+
+In order to function this program in pythen user must install all the modules listed in the test.py.
+
+## Usage
+
+The user can either use python and any application that support python to run this program or double click on the packaged version of the program and function from there. The output of our software will create a two new files, vocal and mucis, so don't close the program while functioning.
+
+## contactMe
+
+My email address is...
+yoshi_kita@hotmail.co.jp
